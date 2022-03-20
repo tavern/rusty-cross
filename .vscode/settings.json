@@ -1,0 +1,15 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.organizeImports": true
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "file",
+  "rust-analyzer.rustfmt.enableRangeFormatting": true,
+  "rust-analyzer.checkOnSave.enable": true,
+  "rust-analyzer.checkOnSave.allFeatures": true,
+  "[rust]": {
+    "editor.defaultFormatter": "matklad.rust-analyzer",
+    "editor.formatOnSave": true
+  }
+}
